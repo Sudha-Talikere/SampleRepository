@@ -1,2 +1,4 @@
 My First Service Class.
-Second file to test merge
+Second file to test merge from github.
+Second file to test merge from git.
+
